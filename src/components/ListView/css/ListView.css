@@ -1,0 +1,7 @@
+.list__wrp {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: auto;
+    align-items: start;
+}

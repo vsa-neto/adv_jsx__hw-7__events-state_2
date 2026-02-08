@@ -1,0 +1,14 @@
+.isOn {
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    height: 28px;
+    align-items: start;
+}
+
+
+.icon {
+margin-left: auto;
+height: auto;
+cursor: pointer;
+}

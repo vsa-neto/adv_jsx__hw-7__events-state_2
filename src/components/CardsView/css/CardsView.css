@@ -1,0 +1,9 @@
+.cards__wrp {
+    display: flex;
+    gap: 4%;
+    flex-flow: row wrap;
+    justify-content: center;
+    height: auto;
+    /* background-color: rgb(207, 207, 207); */
+    align-items: start;
+}
