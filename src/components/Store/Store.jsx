@@ -9,32 +9,32 @@ const cards = [{
   name: "Nike Metcon 2",
   priсe: "130",
   color: "red",
-  img: "/../../../public/1.jpg"
+  img: "./1.jpg"
 }, {
   name: "Nike Metcon 2",
   priсe: "130",
   color: "green",
-  img: "/../../../public/2.jpg"
+  img: "./2.jpg"
 }, {
   name: "Nike Metcon 2",
   priсe: "130",
   color: "blue",
-  img: "/../../../public/3.jpg"
+  img: "./3.jpg"
 }, {
   name: "Nike Metcon 2",
   priсe: "130",
   color: "black",
-  img: "/../../../public/4.jpg"
+  img: "./4.jpg"
 }, {
   name: "Nike Metcon 3",
   priсe: "150",
   color: "green",
-  img: "/../../../public/5.jpg"
+  img: "./5.jpg"
 }, {
   name: "Nike Free run",
   priсe: "170",
   color: "black",
-  img: "/../../../public/6.jpg"
+  img: "./6.jpg"
 }
 ];
 
